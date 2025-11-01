@@ -3,6 +3,6 @@ Next updates to be done in my GitHub repositories:
 
 - C++ From Python: More mini-projects with more advanced C++ implementations + updates to the cheatsheet
 
-- Decoders Explained: Finish and clean the mini-project
+- More tutorials
 
 - Personal Website: Presentation of my projects and repositories, update graphics
